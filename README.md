@@ -22,5 +22,5 @@ page.
 The following command will integrate Tapdaq and display an interstitial
 each time the application boots up. 
 
-    tdbox YOUR_APPLICATION_ID YOUR_CLIENT_KEY
+    tdbox
 

@@ -4,7 +4,7 @@
   "description": "Integrates Tapdaq to your compiled iOS Buildbox application",
   "keywords": "buildbox, tapdaq, ios, integration, integrate, xcode, framework, bundle",
   "bin": {
-    "tdbox" : "index.js"
+    "tdbox": "./lib/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,13 @@
   "author": "Tapdaq <support@tapdaq.com>",
   "license": "MIT",
   "dependencies": {
-    "commander": "^2.8.1"
+    "chalk": "^1.1.0",
+    "commander": "^2.8.1",
+    "request": "^2.60.0",
+    "xcode": "^0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tapdaq/tdbox.git"
   }
 }
