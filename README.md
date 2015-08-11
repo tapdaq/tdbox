@@ -19,6 +19,8 @@ page.
 
 ## Quickstart
 
+First, make sure you are in the directory of the project.
+    
 The following command will integrate Tapdaq and display an interstitial
 each time the application boots up. 
 
