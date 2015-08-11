@@ -1,6 +1,6 @@
 {
   "name": "tdbox",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Integrates Tapdaq to your compiled iOS Buildbox application",
   "keywords": "buildbox, tapdaq, ios, integration, integrate, xcode, framework, bundle",
   "bin": {
